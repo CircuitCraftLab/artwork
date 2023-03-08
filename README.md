@@ -1,4 +1,4 @@
-# CircuitCraftLab Artwork
+# Artwork
 
 Artworks collection related to __CircuitCraftLab__ organization
 
