@@ -12,4 +12,5 @@
 *.json text eol=crlf encoding=utf-8
 
 # Assets
-*.ai binary
+*.ai  binary
+*.png binary
