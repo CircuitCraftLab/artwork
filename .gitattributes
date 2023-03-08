@@ -7,3 +7,6 @@
 
 # Markdown documents
 *.md text eol=crlf encoding=utf-8
+
+# JSON configs
+*.json text eol=crlf encoding=utf-8
